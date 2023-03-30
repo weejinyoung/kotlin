@@ -1,0 +1,3 @@
+class KotlinPractice1 {
+
+}
